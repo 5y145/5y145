@@ -14,7 +14,7 @@
 </p>
 
 ## 📂 Projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5y145&layout=compact)](https://github.com/5y145/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5y145&layout=compact)](https://github.com/5y145)
 
 ## 📚 Study
 <a href="https://velog.io/@5y145"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
