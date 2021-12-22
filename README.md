@@ -1,6 +1,6 @@
 ## 🌈 장성준 ( Seong Jun, Jang )
 - Android Developer
-- SSAFY 6기
+- 삼성 청년 SW 아카데미 6기
 
 ## 🛠 Skills
 <p>
@@ -14,5 +14,3 @@
 
 ## 📚 Study
 <a href="https://velog.io/@5y145"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=5y145)](https://solved.ac/profile/5y145)
